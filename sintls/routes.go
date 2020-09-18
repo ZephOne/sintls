@@ -2,7 +2,7 @@ package sintls
 
 import (
 	"fmt"
-	"github.com/go-acme/lego/v3/challenge"
+	"github.com/go-acme/lego/v4/challenge"
 	"github.com/go-pg/pg/v9"
 	"github.com/labstack/echo/v4"
 	"github.com/zehome/sintls/dns"

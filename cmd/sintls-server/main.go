@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/coreos/go-systemd/activation"
-	"github.com/go-acme/lego/v3/providers/dns"
+	"github.com/go-acme/lego/v4/providers/dns"
 	"github.com/go-pg/pg/v9"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
